@@ -4,20 +4,31 @@
   margin-right: auto;
   flex-direction: column;
 }
-.text {
-  margin: 0;
-  text-align: left;
+
+.icon {
+  margin-right: 10px;
+  padding: 0;
 }
+
+.icon {
+  margin-right: 10px;
+}
+
 .deleteButton {
-  background-color: #f1c608;
+  background-color: #dc3545;
   color: white;
   border: none;
-  border-radius: 10px;
+  border-radius: 5px;
   cursor: pointer;
   margin-top: auto;
   margin-bottom: auto;
 }
 
 .deleteButton:hover {
-  background-color: burlywood;
+  background-color: #c82333;
+}
+
+.text {
+  margin: 0;
+  text-align: left;
 }

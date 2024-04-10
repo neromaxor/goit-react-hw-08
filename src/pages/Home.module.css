@@ -1,0 +1,41 @@
+.home_container {
+  text-align: center;
+  margin: 50px auto;
+  padding: 0 20px;
+}
+
+.home_title {
+  font-size: 36px;
+  color: #0734ff;
+  margin-bottom: 20px;
+}
+
+.home_description {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 40px;
+  line-height: 1.6;
+}
+
+.feature_title {
+  font-size: 24px;
+  color: #0734ff;
+  margin-bottom: 20px;
+}
+
+.feature_list {
+  list-style: none;
+  padding-left: 0;
+  text-align: left;
+}
+
+.feature_list li {
+  margin-bottom: 10px;
+}
+
+.get_started {
+  font-size: 20px;
+  color: #333;
+  margin-top: 40px;
+  line-height: 1.6;
+}

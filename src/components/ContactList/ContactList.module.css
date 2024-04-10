@@ -1,22 +1,18 @@
-ul {
-  list-style-type: none;
+.contact {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  width: 300px;
+  justify-content: space-between;
 }
 .contactList {
   display: flex;
-  flex-direction: column;
+  padding: 0;
+  gap: 30px;
   justify-content: center;
-  align-items: center;
-  gap: 20px;
-  margin: 0 auto;
-}
-
-.contact {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 40px;
-  width: 350px;
-  border: 1px solid #6f0505;
-  border-radius: 15px;
-  padding: 10px;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
 }

@@ -1,0 +1,15 @@
+.authNav {
+  display: flex;
+}
+
+.link {
+  margin-right: 10px;
+  transition: color 0.3s ease;
+  font-size: large;
+  font-weight: 600;
+}
+
+.link:hover,
+.link:focus {
+  color: blue;
+}
