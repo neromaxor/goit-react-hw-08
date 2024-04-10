@@ -1,8 +1,8 @@
 .searchBox {
-  width: 250px;
   margin-bottom: 20px;
-  margin-left: 50px;
-  width: 350px;
+  margin-left: -3px;
+  width: 300px;
+  border-radius: 0%;
 }
 
 .label {
@@ -10,12 +10,13 @@
   font-weight: bold;
   margin-bottom: 5px;
   margin-right: 50%;
+  color: #5f0bce;
 }
 
 .input {
   padding: 8px;
-  border: 1px solid #f35507;
-  border-radius: 5px;
+  border: 1px solid #0bcec4;
+  border-radius: 20px;
   width: 100%;
   box-sizing: border-box;
 }

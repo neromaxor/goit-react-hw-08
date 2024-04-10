@@ -30,7 +30,7 @@ const Home = () => {
           powerful search and filter functionalities.
         </li>
         <li>
-          Responsive Design: Access Contacts Manager on any device, whether it's
+          Responsive Design: Access Contacts Manager on any device, whether it
           your desktop, tablet, or smartphone.
         </li>
         <li>

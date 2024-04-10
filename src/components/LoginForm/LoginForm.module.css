@@ -30,13 +30,13 @@
   font-size: 18px;
   border: none;
   border-radius: 4px;
-  background-color: #007bff;
+  background-color: #629cda;
   color: #fff;
   cursor: pointer;
 }
 
 .formButton:hover {
-  background-color: #0056b3;
+  background-color: #09427e;
 }
 
 .formError {

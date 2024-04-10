@@ -7,9 +7,10 @@
   transition: color 0.3s ease;
   font-size: large;
   font-weight: 600;
+  color: rgb(238, 172, 125);
 }
 
 .link:hover,
 .link:focus {
-  color: blue;
+  color: rgb(252, 116, 5);
 }

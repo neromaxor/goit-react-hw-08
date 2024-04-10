@@ -20,7 +20,7 @@ input[type="text"] {
 
 button {
   padding: 10px 15px;
-  background-color: #007bff;
+  background-color: #f5a105;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -30,7 +30,7 @@ button {
 }
 
 button:hover {
-  background-color: #0056b3;
+  background-color: #f7ca04;
 }
 
 .error {
